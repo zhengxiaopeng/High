@@ -14,7 +14,7 @@ High一下，点击 http://zhengxiaopeng.com 里的 `High一下` 试用。
 ## License
 
 ``` License
-Copyright 2012 Rocko (zhengxiaopeng) <rocko.zxp@gmail.com>.
+Copyright 2015 Rocko (zhengxiaopeng) <rocko.zxp@gmail.com>.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
