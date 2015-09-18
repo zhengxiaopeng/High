@@ -1,20 +1,27 @@
 # High一下
 
-High一下，点击 http://zhengxiaopeng.com 里的 `High一下` 试用。   
-修复点击重复执行播放的问题，重新点击后动画重新开始，加了几首歌点击随机播放。
+High一下，点击 http://rocko.xyz 里的 `High一下` 试用。   
+修复点击重复执行播放的问题，重新点击后动画重新开始，可增加歌曲、（自动）循环播放。
 
 ## Usage
 
-把如下超链接放到网站上需显示的位置，请注意修改 `high.js` 里的配置信息。
+把如下超链接放到网站上需显示的位置，请注意修改 `high.js` 里的歌曲配置信息: `songs[...]`。
 
 ``` Html
 <a href='high.js里的代码复制进来'>High一下</a> 
 ```
 
+## Version
+
+### v1.0.0
+
+- High
+- 歌曲自动循环
+
 ## License
 
 ``` License
-Copyright 2015 Rocko (zhengxiaopeng) <rocko.zxp@gmail.com>.
+Copyright (C) 2015 Rocko (rocko.xyz) <rocko.zxp@gmail.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
